@@ -5,5 +5,16 @@
     "name":"conga",
     "projectSpace":"Conga",
     "startUp":"",
-    "version":"3.0.2"
+    "version":"3.0.3",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/e9gille/Conga.git"
+    },
+    "author": {
+        "name": "Dyalog Ltd"
+    },
+    "bugs": {
+        "url": "https://github.com/e9gille/Conga/issues"
+    }
+     
 }
