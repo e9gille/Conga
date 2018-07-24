@@ -1,11 +1,12 @@
 {
-    "caseCode":"On",
-    "keepHistory":"Off",
-    "main":"",
     "name":"conga",
+    "files": [
+        "acreconfig.txt",
+        "APLSource/Conga*"
+    ],
+    "main":"Conga",
     "projectSpace":"Conga",
-    "startUp":"",
-    "version":"3.0.4",
+    "version":"3.1.0",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/e9gille/Conga.git"
