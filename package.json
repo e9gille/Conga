@@ -2,11 +2,12 @@
     "name":"conga",
     "files": [
         "acreconfig.txt",
+        "bin",
         "APLSource/Conga*"
     ],
     "main":"Conga",
     "projectSpace":"Conga",
-    "version":"3.1.0",
+    "version":"3.1.1",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/e9gille/Conga.git"
