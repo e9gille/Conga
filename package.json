@@ -7,7 +7,7 @@
     ],
     "main":"Conga",
     "projectSpace":"Conga",
-    "version":"3.1.2",
+    "version":"3.1.3",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/e9gille/Conga.git"
